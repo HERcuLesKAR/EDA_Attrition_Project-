@@ -50,6 +50,7 @@ pip install -r requirements.txt
 ### 3. Run the Notebook
 
 Use Jupyter Notebook or VS Code to open and run:
+
 jupyter notebook Cleaned_ML_Attrition_EDA.ipynb
 
 📌 Tools & Technologies
@@ -67,5 +68,7 @@ Seaborn
 Jupyter Notebook
 
 👨‍💻 Author
+
 Kartikaya Awasthi
+
 Feel free to connect with me on LinkedIn :- www.linkedin.com/in/kartikaya-awasthi-39a387342
