@@ -53,7 +53,7 @@ Use Jupyter Notebook or VS Code to open and run:
 
 jupyter notebook Cleaned_ML_Attrition_EDA.ipynb
 
-📌 Tools & Technologies
+## 📌 Tools & Technologies
 
 Python
 
@@ -67,7 +67,7 @@ Seaborn
 
 Jupyter Notebook
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Kartikaya Awasthi
 
